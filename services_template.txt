@@ -1,0 +1,9 @@
+SEM Services|Search Engine Marketing|Maximize your ROI with targeted paid advertising campaigns|sem-services.html
+ORM Services|Online Reputation Management|Protect and enhance your brand's online reputation|orm-services.html
+Web Design|Web Design Services|Create stunning, responsive websites that captivate your audience|web-design.html
+Web Application|Web Application Development|Build powerful, scalable web applications|web-application.html
+Video Animation|Video Animation Services|Create engaging animated videos that tell your brand story|video-animated.html
+Mobile App Development|Mobile App Development|Develop native and cross-platform mobile applications|mobile-app.html
+Web Analytics|Web Analytics Services|Track and analyze your website performance|web-analytics.html
+DevOps Services|DevOps Services|Streamline your development and deployment processes|devops-services.html
+Software Solutions|Software Solutions|Custom software development solutions|software-solutions.html
